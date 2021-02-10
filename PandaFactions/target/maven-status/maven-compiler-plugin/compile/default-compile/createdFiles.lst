@@ -1,0 +1,9 @@
+pandahut\pandafactions\commands\ListColorsCommand.class
+pandahut\pandafactions\commands\ChangeColorCommand.class
+pandahut\pandafactions\PandaFactions.class
+pandahut\pandafactions\events\Scoreboards.class
+pandahut\pandafactions\events\OneSleep.class
+pandahut\pandafactions\Variables.class
+pandahut\pandafactions\events\KillDeathEvent.class
+pandahut\pandafactions\events\WhenPlayerJoins.class
+pandahut\pandafactions\commands\NicknameCommand.class

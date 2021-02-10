@@ -1,0 +1,19 @@
+name: PandaFactions
+version: ${project.version}
+main: pandahut.pandafactions.PandaFactions
+api-version: 1.16
+authors: [ papahunter ]
+description: A factions plugin tailored to the Panda Hut server.
+commands:
+
+  color:
+    description: Used to change the color of your chat
+    usage: /color <color>
+
+  colors:
+    description: Use to list the avalable colors for use with /color
+    usage: /colors
+
+  nick:
+    description: Used to change you or another players nickname
+    usage: /nick <nickname>
